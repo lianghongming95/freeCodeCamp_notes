@@ -1,0 +1,27 @@
+Q
+1.WHAT IS Sakila Database?
+为书本文档等提供数据库的框架，类似umlstar表结构的导出。
+2.how install ？
+不会安装。卡住了。
+mysql> SOURCE C:/temp/sakila-db/sakila-schema.sql;？
+
+
+
+大概浏览：
+Hands on!
+Loading our data:
+The data at a glance:
+Categorical analysis and visualization
+Column wrangling
+Add and calculate a new rental_rate_return column
+
+Get the rental records of the customer with lastname HANSEN
+
+Create a list of all the films with the highest replacement cost
+
+How many PG or PG-13 rating films were rented?
+
+总结，1.先连接
+2.新加一列怎么算？
+3.查出最大租金的电影
+4.查出想要的数据
